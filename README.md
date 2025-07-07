@@ -1,2 +1,2 @@
-# MLLabs
-Machine Learning models and programs written during my time @ ASU
+# AI-Projects
+Artificial intelligence projects completed during my time @ ASU (CSE 471)
